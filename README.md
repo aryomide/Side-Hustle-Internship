@@ -4,4 +4,4 @@ Full Name: Ologundudu Deborah
 
 Slack Id: Daisy
 
-Summary: Introducing HTML
+Video Summary: How to use github locally for beginners
